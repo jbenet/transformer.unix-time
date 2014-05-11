@@ -4,5 +4,5 @@ module.exports = new transformer.Type({
   // @context and type filled in automatically.
   'id': 'unix-time',
   'description': 'UNIX DateTime.',
-  'schema': "string"
+  'schema': "integer"
 });
