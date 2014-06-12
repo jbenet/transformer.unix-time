@@ -3,5 +3,5 @@
  "type": "type",
  "id": "unix-time",
  "description": "UNIX DateTime.",
- "schema": "string"
+ "schema": "integer"
 }

@@ -1,6 +1,6 @@
-var transformer = require('dat-transformer');
+var Type = require('transformer-type');
 
-module.exports = new transformer.Type({
+module.exports = new Type({
   // @context and type filled in automatically.
   'id': 'unix-time',
   'description': 'UNIX DateTime.',
